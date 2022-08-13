@@ -7,7 +7,7 @@ print(nome)
 * 🎓 Graduando em Geografia.
 * 📊 Estudante de Análise de Dados na Resilia Educação.
 * 🎯 Tenho como principal objetivo propor soluções com base na análise de dados.  
-* 💻 Durante o curso de análise de dados, aprofundei meus conhecimentos em python e nas suas principais bibliotecas, também desenvolvi projetos projetos em bancos de dados.
+* 💻 Durante o curso de análise de dados, aprofundei meus conhecimentos em python e nas suas principais bibliotecas, também desenvolvi projetos em bancos de dados.
 * ⛰️ Apaixonado por montanhas, viagens e fotografia, não necessariamente nessa ordem. 
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorosab/)
