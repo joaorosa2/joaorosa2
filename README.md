@@ -5,7 +5,7 @@ nome = "João Vitor Rosa"
 print(nome)
 ```
 * 🎓 Graduando em Geografia.
-* 📊 Estudante de Análise de Dados na Resilia Educação.
+* 📊 Estudou Análise de Dados na Resilia Educação.
 * 🎯 Tenho como principal objetivo propor soluções com base na análise de dados.  
 * 💻 Durante o curso de análise de dados, aprofundei meus conhecimentos em python e nas suas principais bibliotecas, também desenvolvi projetos em bancos de dados.
 * ⛰️ Apaixonado por montanhas, viagens e fotografia, não necessariamente nessa ordem. 
